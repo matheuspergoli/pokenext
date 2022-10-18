@@ -1,7 +1,5 @@
 # Pokénext
 
-## (Em andamento)
-
 Projeto criado para o Bootcamp **DIO - Orange Tech +**
 
 Desafio de projeto - Construindo uma Pokédex com Javascript.
@@ -16,3 +14,4 @@ Mas como estou aprendendo NextJS & ReactJS, eu decidi seguir com essas duas tecn
 - Typescript
 - TailwindCSS
 - React Query
+- Material UI
