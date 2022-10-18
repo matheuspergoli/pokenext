@@ -16,4 +16,4 @@ Mas como estou aprendendo NextJS & ReactJS, eu decidi seguir com essas duas tecn
 - React Query
 - Material UI
 
-[Site online - Pokenext](https://pokenext-main.vercel.app)
+<a href='https://pokenext-main.vercel.app' target='_blank'>Site online - Pokenext</a>
