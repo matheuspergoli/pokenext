@@ -15,3 +15,5 @@ Mas como estou aprendendo NextJS & ReactJS, eu decidi seguir com essas duas tecn
 - TailwindCSS
 - React Query
 - Material UI
+
+<a href='https://pokenext-main.vercel.app' target='_blank'>Site online - Pokenext</a>
